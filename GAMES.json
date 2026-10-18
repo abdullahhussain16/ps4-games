@@ -1,5 +1,4 @@
-{
-  "DATA": {
+
     "https://archive.org/download/ps4-fpkg-collection-english-a/A%20Hat%20in%20Time%20-%20[US]%20[EN]%20[1.04].pkg": {
       "title_id": "CUSA09267",
       "region": "USA",
@@ -8649,7 +8648,4 @@
       "size": 8281391104,
       "min_fw": "9.00",
       "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA01345.png"
-    }
-  }
-
-}
+    
